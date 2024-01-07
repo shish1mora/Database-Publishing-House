@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomersMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AuthorizationMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FashionCustomersMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FashionDataEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FashionDataPrHouseMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FashionTypeProductMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillDataBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillDataCustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillDataPrintingHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillDataProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillDataTypeProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillEmployeeMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaterialMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OccurrenceMaterialData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtputAllDataProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutputDataBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintingHouseMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TypesProductMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
